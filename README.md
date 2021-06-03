@@ -3,6 +3,8 @@
 [![Stepik Badge](https://img.shields.io/badge/Stepik-profile-lightgrey)](https://stepik.org/users/47953916)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-profile-yellow)](https://www.kaggle.com/mygaps)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-profile-orange)](https://codeforces.com/profile/Takeda)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lednik7.Lednik7)
+[![GitHub Lednik7](https://img.shields.io/github/followers/Lednik7?label=follow&style=social)](https://github.com/Lednik7)
 
 ## Hi there 👋
 
