@@ -13,15 +13,18 @@ I develop various models for practical purposes, create libraries for other prog
 
 Want to know more about me?
 
-I am successfully completing my first year at **Yandex.Lyceum**, as well as courses at **Tinkoff Education**,
-I often participate in **hackathons** to develop my **hard and soft skills**.
+I have successfully completed **Yandex Lyceum**, as well as courses at **Tinkoff Education**.
+Now I participate in hackathons to develop my **hard** and **soft skills**.
+
+## :trophy: GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Lednik7&theme=alduin)
 
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
 <a href="https://github.com/Lednik7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lednik7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lednik7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=3" />
 </a>
 
 <a href="https://github.com/Lednik7">
@@ -29,37 +32,36 @@ I often participate in **hackathons** to develop my **hard and soft skills**.
 </a>
 
 <br>
-<br>
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-Keras-informational?style=flat&logo=Keras&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Prophet-informational?style=flat&logo=Prophet&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PIL-informational?style=flat&logo=PIL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CV2-informational?style=flat&logo=CV2&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Catboost-informational?style=flat&logo=catboost&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Xgboost-informational?style=flat&logo=xgboost&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Scikit-learn-informational?style=flat&logo=Scikit-learn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Prophet-informational?style=flat&logo=Prophet&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-PIL-informational?style=flat&logo=PIL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-CV2-informational?style=flat&logo=CV2&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Catboost-informational?style=flat&logo=catboost&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Xgboost-informational?style=flat&logo=xgboost&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Spacy-informational?style=flat&logo=Spacy&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Library-Scikit-learn-informational?style=flat&logo=Scikit-learn&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Code-PEP8-informational?style=flat&logo=PEP8&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code_Style-PEP8-informational?style=flat&logo=PEP8&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=OOP&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Agile-informational?style=flat&logo=Agile&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Principle-OOP-informational?style=flat&logo=OOP&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Methodology-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&logo=Agile&logoColor=white&color=4AB197)
 
 <br>
 
