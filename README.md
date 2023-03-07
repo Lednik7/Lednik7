@@ -8,13 +8,13 @@
 
 ## Hi there 👋
 
-I'm Maxim, a young **Data Scientist**, creative programmer with **Time Series and NLP**.
+I'm Maxim, a young **Data Scientist**, creative programmer in **MLOps, System Design, Data Engineering, NLP, CV, TS, Classic ML**.
 I develop various models for practical purposes, create libraries for other programmers, and also quite often participate in professional activities.
 
 Want to know more about me?
 
-I have successfully completed **Yandex Lyceum**, as well as courses at **Tinkoff Education**.
-Now I participate in hackathons to develop my **hard** and **soft skills**.
+I have successfully completed **Yandex Lyceum**, **Tinkoff Education**, **Sirius Educational Center**.\
+Three-time champion of the National Technological Olympiad. AIIJC winner.
 
 ## :trophy: GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Lednik7&theme=alduin)
